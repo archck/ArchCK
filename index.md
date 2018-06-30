@@ -1,5 +1,5 @@
-# ArchCK tool demo!
+# ArchCK tool demo and artifact for ESEC/FSE 2018!
 
-## Tool Demo
-Youtube link : [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+
+Tool Demo [Youtube link](https://guides.github.com/features/mastering-markdown/)
 
